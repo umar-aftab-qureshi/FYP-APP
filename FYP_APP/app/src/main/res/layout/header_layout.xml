@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/logo"
+    android:layout_height="@dimen/_140sdp"
+    android:padding="@dimen/_20sdp"
+    android:layout_marginEnd="@dimen/_30sdp"
+    android:layout_marginRight="@dimen/_50sdp">
+
+</RelativeLayout>

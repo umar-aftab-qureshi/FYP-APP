@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IAQ</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_days">Select_days</string>
+    <string-array name="Category">
+        <item>Gas</item>
+        <item>Smoke</item>
+        <item>Dust</item>
+        <item>Temperature</item>
+        <item>Carbon Monoxide</item>
+    </string-array>
+    <string-array name="days">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+
+
+    </string-array>
+</resources>
