@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#F8ECDB"
+    android:background="@drawable/background"
     android:padding="@dimen/_30sdp">
 
     <LinearLayout
@@ -27,7 +27,7 @@
             android:fontFamily="serif"
             android:text="Welcome to IAQ"
             android:textAlignment="center"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
 
             android:textSize="@dimen/_28ssp"
             android:textStyle="bold" />
@@ -38,7 +38,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="serif"
-            android:textColor="@color/black"
+            android:layout_marginBottom="@dimen/_30sdp"
+            android:textColor="@color/white"
             android:text="Here You Can Predict The Indoor Air Quality!"
             android:textAlignment="center"
 
